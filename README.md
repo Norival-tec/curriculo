@@ -14,7 +14,6 @@ Profissional com **20 anos de experiência** em **segurança da informação**, 
 - **GIAC GCIH (SANS 504) – Renovada em Fevereiro de 2025**  
 - CHFI (Computer Hacking Forensic Investigator)  
 - ECIH (Certified Incident Handler)  
-- SANS 504 (Hacker Techniques, Exploits & Incident Handling)  
 - Pen-200 (Offensive Security Certified Professional – OSCP)  
 - DESEC (Defensive Security)  
 - SYO-501 (CompTIA Security+)  

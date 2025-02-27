@@ -1,7 +1,7 @@
 # Norival Lourenço Martins
 
 **E-mail:** norival_tec@hotmail.com  
-**LinkedIn:** [linkedin.com/in/norivalmartins](https://linkedin.com/in/norivalmartins)  
+**LinkedIn:** [linkedin.com/in/norivalmartins](https://www.linkedin.com/in/norival-l-martins-48691a53)  
 
 ---
 

@@ -1,10 +1,9 @@
-
 # Norival Lourenço Martins
 
 **Título:** Guerreiro Cibernético  
 **E-mail:** norival_tec@hotmail.com  
 **ID SANS:** 6264082  
-**LinkedIn:** [https://www.linkedin.com/in/norival-l-martins-48691a53/](https://www.linkedin.com/in/norival-l-martins-48691a53)  
+**LinkedIn:** [linkedin.com/in/norivalmartins](https://www.linkedin.com/in/norival-l-martins-48691a53)  
 
 ---
 
@@ -97,4 +96,13 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 - **Pós-Graduação em Segurança Ofensiva** – ACDI TI – 2024  
 - **Pós-Graduação em Segurança da Informação** – Faculdade Focus – 2021  
 - **Tecnologia em Sistemas de Computação** – CEDERJ – 2017  
+
+---
+
+## Publicações e Artigos
+- **[Dreadnought: O Sistema de Proteção Cibernética da Marinha](https://portaldeperiodicos.marinha.mil.br/index.php/passadico/article/view/3731)** – Revista Passadiço  
+- **[Navios da Esquadra realizam exercício de Guerra Cibernética durante a Operação “ADEREX-Anfíbia/Superfície 2021”](https://www.marinha.mil.br/)** – Marinha do Brasil  
+- **[Vista do Sistema Dreadnought](https://www.marinha.mil.br/)**  
+- **[INF/UFRGS sedia workshop Pesquisa em Segurança Cibernética](https://www.ufrgs.br/)** – EPEx  
+- **[INF/UFRGS sedia workshop Pesquisa em Segurança Cibernética](https://www.ufrgs.br/)** – SEDETEC  
 

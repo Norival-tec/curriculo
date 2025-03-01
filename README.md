@@ -104,7 +104,7 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 
 ---
 ## Eventos 
-- **[INF/UFRGS sedia workshop Pesquisa em Segurança Cibernética]([https://www.ufrgs.br/](https://www.ufrgs.br/sedetec/inf-ufrgs-sedia-workshop-pesquisa-em-seguranca-cibernetica/))** – EPEx  
-- **[Exercicio CyberUnitas]([https://www.ufrgs.br/](https://www.semana.com/nacion/articulo/armada-nacional-lidera-el-primer-ejercicio-de-operaciones-ciberneticas-en-un-entorno-naval-asi-fue-el-encuentro-internacional/202340/))**  
-- **[CoNavOpEsp realiza Operação “Ciber Securitas VIII]([https://www.ufrgs.br/](https://www.defesaemfoco.com.br/conavopesp-realiza-operacao-ciber-securitas-viii/))** – Marinha 
+- **[INF/UFRGS sedia workshop Pesquisa em Segurança Cibernética](https://www.ufrgs.br/](https://www.ufrgs.br/sedetec/inf-ufrgs-sedia-workshop-pesquisa-em-seguranca-cibernetica/)** – EPEx  
+- **[Exercicio CyberUnitas](https://www.ufrgs.br/](https://www.semana.com/nacion/articulo/armada-nacional-lidera-el-primer-ejercicio-de-operaciones-ciberneticas-en-un-entorno-naval-asi-fue-el-encuentro-internacional/202340/)**  
+- **[CoNavOpEsp realiza Operação “Ciber Securitas VIII](https://www.ufrgs.br/](https://www.defesaemfoco.com.br/conavopesp-realiza-operacao-ciber-securitas-viii/)** – Marinha 
 

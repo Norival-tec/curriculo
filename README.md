@@ -4,7 +4,7 @@
 **Título:** Guerreiro Cibernético  
 **E-mail:** norival_tec@hotmail.com  
 **ID SANS:** 6264082  
-**LinkedIn:** [linkedin.com/in/norivalmartins](https://www.linkedin.com/in/norival-l-martins-48691a53)  
+**LinkedIn:** [https://www.linkedin.com/in/norival-l-martins-48691a53/](https://www.linkedin.com/in/norival-l-martins-48691a53)  
 
 ---
 

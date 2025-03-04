@@ -1,6 +1,6 @@
 # Norival Lourenço Martins
 
-**Título:** Guerreiro Cibernético  
+**Título:** Red Team Lead / Adversary Simulation Expert   
 **E-mail:** norival_tec@hotmail.com  
 **ID SANS:** 6264082  
 **LinkedIn:** [linkedin.com/in/norivalmartins](https://www.linkedin.com/in/norival-l-martins-48691a53)  
@@ -15,6 +15,9 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 ---
 
 ## Certificações
+### 2025
+- **CSA - Certified SOC Analisty** – EC-Council – Fev 2025 (expira em Mar 2026)
+
 ### 2024
 - **CPTE - Certified Penetration Testing Expert** – Acadi-TI – Nov 2024  
 - **ECIH - EC-Council Certified Incident Handler** – EC-Council – Ago 2024 (expira em Ago 2027)  

@@ -16,6 +16,7 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 
 ## Certificações
 ### 2025
+- **OSCP+ - OffSec Certified Professional+ (OSCP+) – Set 2025 (expira em Set 2028)
 - **CSA - Certified SOC Analisty** – EC-Council – Fev 2025 (expira em Mar 2026)
 
 ### 2024

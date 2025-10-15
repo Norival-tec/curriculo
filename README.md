@@ -19,7 +19,7 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 - **OSCP+ - OffSec Certified Professional+ (OSCP+) – Set 2025 (expira em Set 2028)
 - **CSA - Certified SOC Analisty** – EC-Council – Fev 2025 (expira em Mar 2026)
 - **CEH - Certfield Ethical Hacker  – EC-Council – Set 2025 (expira em Out 2026)
-- 
+
 ### 2024
 - **CPTE - Certified Penetration Testing Expert** – Acadi-TI – Nov 2024  
 - **ECIH - EC-Council Certified Incident Handler** – EC-Council – Ago 2024 (expira em Ago 2027)  

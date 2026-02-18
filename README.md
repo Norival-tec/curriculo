@@ -53,10 +53,10 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 - **Tratamento de Incidentes de Segurança (Presencial) (SEG4)** – Escola Superior de Redes – Mar 2018  
 
 ### 2017
-- **GIAC Certified Incident Handler (GCIH)** – SANS Institute – Fev 2017  
+- **GIAC Certified Incident Handler (GCIH)** – SANS Institute – Fev 2029 
 
 ### 2016
-- **CHFI (Computer Hacking Forensic Investigator)** – EC-Council – Set 2016 (expirado em Set 2022)  
+- **CHFI (Computer Hacking Forensic Investigator)** – EC-Council – Set 2016 (30/09/2028)  
 
 ---
 

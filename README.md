@@ -24,7 +24,7 @@ Especialista em virtualização (Proxmox VE, GPU Passthrough), arquiteturas de B
 * **Soberania e Desempenho:** Redução no tempo de busca em manuais técnicos de minutos para segundos, com custo zero de licenciamento de software e 100% de privacidade dos dados.
 
 
-* **Arquitetura Técnica:** Integração de motor vLLM (PagedAttention), modelos LLM (como Gemma-3 e GPT-OSS), arquitetura RAG com banco vetorial (PostgreSQL) para eliminação de alucinações e interface via OpenWebUI.
+* **Arquitetura Técnica:** Integração de motor vLLM (PagedAttention), modelos LLM (como Gemma-4 e GPT-OSS), arquitetura RAG com banco vetorial (PostgreSQL) para eliminação de alucinações e interface via OpenWebUI.
 
 
 * **Escalabilidade e Automação:** Suporte estável para 40 usuários simultâneos em produção, pipeline de dados sintéticos e orquestração automatizada via Crontab para chaveamento dinâmico entre inferência diurna e treinamento noturno.

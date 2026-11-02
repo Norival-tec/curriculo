@@ -7,11 +7,6 @@
 
 ---
 
-## Perfil Profissional
-Aqui está a versão atualizada e aprimorada do perfil profissional, incorporando os detalhes da sua trajetória, a criação do **Sistema Dreadnought (SMPC-Op)** e a arquitetura do **Projeto VITOria**:
-
----
-
 ### Perfil Profissional
 
 Profissional com 20 anos de experiência em segurança da informação, com especialização em operações ofensivas, simulação de adversários, defesa cibernética e arquitetura de IA soberana no segmento militar. Acumula ampla vivência na gestão de equipes, treinamentos, resposta a incidentes e desenvolvimento de soluções de alto impacto para a defesa cibernética.

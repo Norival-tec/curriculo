@@ -8,9 +8,31 @@
 ---
 
 ## Perfil Profissional
-Profissional com 20 anos de experiência em segurança da informação, abrangendo suporte, implementações, testes de invasão e arquitetura de segurança, com foco no segmento militar. Especialista em virtualização, big data, firewall, IDS, **Suricata, ELK, Scapy, PHP, Bootstrap, Snort, pfSense e Python**. Experiente na gestão de equipes, treinamentos e desenvolvimento de soluções para defesa cibernética.
+Aqui está a versão atualizada e aprimorada do perfil profissional, incorporando os detalhes da sua trajetória, a criação do **Sistema Dreadnought (SMPC-Op)** e a arquitetura do **Projeto VITOria**:
 
-Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwares livres e virtualização para melhorar a segurança cibernética das unidades operativas da Marinha do Brasil. O programa reforça a blindagem cibernética, detectando e mitigando ameaças rapidamente.
+---
+
+### Perfil Profissional
+
+Profissional com 20 anos de experiência em segurança da informação, com especialização em operações ofensivas, simulação de adversários, defesa cibernética e arquitetura de IA soberana no segmento militar. Acumula ampla vivência na gestão de equipes, treinamentos, resposta a incidentes e desenvolvimento de soluções de alto impacto para a defesa cibernética.
+
+Especialista em virtualização (Proxmox VE, GPU Passthrough), arquiteturas de Big Data, firewalls (pfSense), IDS/IPS (Suricata, Snort), ELK Stack, Scapy, vLLM, OpenWebUI, Python (assíncrono) e PHP.
+
+#### Projetos de Destaque
+
+* **Sistema Dreadnought (SMPC-Op):** Criador do sistema baseado em softwares livres e virtualização, desenvolvido para reforçar a blindagem cibernética das unidades operativas da Marinha do Brasil. A solução monitora, detecta e mitiga ameaças cibernéticas em tempo real em ambientes embarcados, com publicação de destaque na *Revista Passadiço* da Marinha do Brasil.
+
+
+* **Projeto VITOria (LLM de Missão Crítica On-Premise):** Arquiteto de soluções de IA responsável pelo projeto e implementação de um ecossistema de Inteligência Artificial Soberana operando totalmente em ambiente isolado (*air-gap*). A solução permite a consulta e o processamento seguro de dados sensíveis e manuais técnicos sem dependência de nuvem ou conexões externas:
+
+
+* **Soberania e Desempenho:** Redução no tempo de busca em manuais técnicos de minutos para segundos, com custo zero de licenciamento de software e 100% de privacidade dos dados.
+
+
+* **Arquitetura Técnica:** Integração de motor vLLM (PagedAttention), modelos LLM (como Gemma-3 e GPT-OSS), arquitetura RAG com banco vetorial (PostgreSQL) para eliminação de alucinações e interface via OpenWebUI.
+
+
+* **Escalabilidade e Automação:** Suporte estável para 40 usuários simultâneos em produção, pipeline de dados sintéticos e orquestração automatizada via Crontab para chaveamento dinâmico entre inferência diurna e treinamento noturno.
 
 ---
 

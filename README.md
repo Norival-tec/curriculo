@@ -18,11 +18,11 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 ### 2026
 - **OSWP - Wireless Network Attacks (OSWP)** – Fev 2026
 - **ICS/SCADA - Infraestruturas Criticas** – Em Andamento
-- **DCPT - Desec Certified Penetration Tester** – Em Andamento
+- **DCPT - Desec Certified Penetration - Out 2026
 ### 2025
 - **OSCP - OffSec Certified Professional+ (OSCP+)** – Set 2025 (expira em Set 2028)
-- **CSA - Certified SOC Analisty** – EC-Council – Fev 2025 (expira em Mar 2026)
-- **CEH - Certfield Ethical Hacker**  – EC-Council – Set 2025 (expira em Out 2026)
+- **CSA - Certified SOC Analisty** – EC-Council – Fev 2025 (expira em Mar 2028)
+- **CEH - Certfield Ethical Hacker**  – EC-Council – Set 2025 (expira em Out 2028)
 
 ### 2024
 - **CPTE - Certified Penetration Testing Expert** – Acadi-TI – Nov 2024  
@@ -97,7 +97,8 @@ Criador do **Sistema Dreadnought (SMPC-Op)**, uma arquitetura baseada em softwar
 - Monitoramento de ameaças com **Suricata, Snort** e **ELK**.  
 - Administração de firewalls, incluindo **pfSense**.  
 - Virtualização e gestão de infraestrutura com **Proxmox**.  
-- Configuração de OpenVPN e análise de redes complexas.  
+- Configuração de OpenVPN e análise de redes complexas.
+
 
 ---
 
